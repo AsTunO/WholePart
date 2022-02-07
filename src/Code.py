@@ -3,7 +3,6 @@ from math import trunc
 
 janela = Tk()
 
-
 janela.title('NoThing')
 janela.geometry('300x250+430+150')
 janela['bg'] = 'Orange'
